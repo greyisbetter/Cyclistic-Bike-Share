@@ -88,7 +88,7 @@ Here is the [Documentation](https://github.com/greyisbetter/Cyclistic-Bike-Share
 
 ## Supporting visualizations and key findings <div id="share"></div>
 The visualizations should clearly communicate your high-level insights and recommendations. 
-[Link of the Visualization Presentation](https://github.com/greyisbetter/Cyclistic-Bike-Share/blob/main/Dashboard.pdf)
+[Link of the Visualization Dashboard](https://github.com/greyisbetter/Cyclistic-Bike-Share/blob/main/Dashboard.pdf)
 
 ## Recommendations based on your analysis
 <div id="act"></div>
