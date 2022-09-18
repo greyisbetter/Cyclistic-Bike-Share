@@ -67,7 +67,7 @@ Here is the [Documentation](https://github.com/greyisbetter/Cyclistic-Bike-Share
 ![top-50-casual-home-stations](./charts/top-50-casual-home-stations.png)
 
 **Top 50 Annual Members's Home Stations**
-![top-50-annual-home-stations](./charts/top-50-annual-home-stations.png)
+![top-50-annual-home-stations](./charts/top-50-member-home-stations.png)
 
 4. A major difference that shows that 13.55% of casual riders use docked bikes in place of classic bikes, but this is not the case with the annual members.
 **Bike Choice of Casual Riders**
@@ -88,7 +88,7 @@ Here is the [Documentation](https://github.com/greyisbetter/Cyclistic-Bike-Share
 
 ## Supporting visualizations and key findings
 <div id="share"></div>
-The visualizations should clearly communicate your high-level insights and recommendations. [Link of the Visualization Presentation](./Dashboard.pdf)
+The visualizations should clearly communicate your high-level insights and recommendations. [Link of the Visualization Presentation](https://github.com/greyisbetter/Cyclistic-Bike-Share/blob/main/Dashboard.pdf)
 
 ## Recommendations based on your analysis
 <div id="act"></div>
